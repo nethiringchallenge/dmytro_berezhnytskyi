@@ -1,0 +1,7 @@
+D:\Projects\TradeMarket\TradeMarket\obj\Debug\TradeMarket.csprojResolveAssemblyReference.cache
+D:\Projects\TradeMarket\TradeMarket\obj\Debug\TradeMarket.csproj.CoreCompileInputs.cache
+D:\Projects\TradeMarket\TradeMarket\bin\Debug\TradeMarket.exe.config
+D:\Projects\TradeMarket\TradeMarket\bin\Debug\TradeMarket.exe
+D:\Projects\TradeMarket\TradeMarket\bin\Debug\TradeMarket.pdb
+D:\Projects\TradeMarket\TradeMarket\obj\Debug\TradeMarket.exe
+D:\Projects\TradeMarket\TradeMarket\obj\Debug\TradeMarket.pdb
